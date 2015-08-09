@@ -61,6 +61,7 @@ class PostsController < ApplicationController
   end
 
   #Begin of rails 4 private method creation.
+
   private
 
   def post_params
